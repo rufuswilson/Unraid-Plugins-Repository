@@ -7,7 +7,7 @@
 <Category>Tools:System</Category>
 <Name>User Scripts Enhanced</Name>
 <Description>
-Adds categories, UI customization, and toggleable elements to the User Scripts page and many additional features regarding User Scripts.
+This plugin is an enhancement for User Scripts. It adds categories, UI customization, a search function, and toggleable elements to the User Scripts page, along with many additional features to help organize and manage your scripts more efficiently.
 </Description>
 <Support>https://forums.unraid.net/topic/191294-plugin-user-scripts-enhanced/</Support>
 <ExtraSearchTerms>crontab cron schedule</ExtraSearchTerms>
