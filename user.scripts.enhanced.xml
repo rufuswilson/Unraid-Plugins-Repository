@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Kurotaku-sama/unraid.user.scripts.enhanced/main/user.scripts.enhanced.plg</PluginURL>
+<PluginAuthor>Kurotaku</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>User Scripts Enhanced</Name>
+<Description>
+Adds categories, UI customization, and toggleable elements to the User Scripts page and many additional features regarding User Scripts.
+</Description>
+<Support>https://forums.unraid.net/topic/191294-plugin-user-scripts-enhanced/</Support>
+<ExtraSearchTerms>crontab cron schedule</ExtraSearchTerms>
+<Icon>https://github.com/Kurotaku-sama/unraid.user.scripts.enhanced/raw/main/images/icon.png</Icon>
+<DonateLink>https://ko-fi.com/kurotaku1337</DonateLink>
+<Screenshot>https://github.com/Kurotaku-sama/unraid.user.scripts.enhanced/raw/main/images/page_userscripts.png</Screenshot>
+</Containers>
