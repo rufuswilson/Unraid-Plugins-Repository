@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>  
+<PluginURL>https://raw.githubusercontent.com/rufuswilson/unraid-packages/main/plugins/zerotier.plg</PluginURL>
+<PluginAuthor>Rufus Wilson</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:Network</Category>
+<Name>Zerotier</Name>
+<Description>
+Installs Zerotier as an unRAID plugin. This allows connection via Zerotier even if the array is stopped.
+</Description>
+<Support>https://forums.unraid.net/topic/xxxxxxx-plugin-zerotier/</Support>
+<ExtraSearchTerms>network vpn</ExtraSearchTerms>
+<Icon>https://github.com/Kurotaku-sama/unraid.user.scripts.enhanced/raw/main/images/icon.png</Icon>
+<!--DonateLink>https://ko-fi.com/rufuswilson</DonateLink-->
+<Screenshot>https://github.com/Kurotaku-sama/unraid.user.scripts.enhanced/raw/main/images/page_userscripts.png</Screenshot>
+</Containers>
